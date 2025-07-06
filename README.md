@@ -30,40 +30,43 @@ By leveraging cutting-edge AI techniques, this system analyzes **market sentimen
 
 
   Suggested llms
-1-Financial event detection llm-**MindBridge**
+**1-Financial event detection llm**
   ![image](https://github.com/user-attachments/assets/679a4f4e-4bbe-4bd8-b8ca-debc7df8f3d0)
 
-2-Risk Factor Extraction from Financial Filings
+**2-Risk Factor Extraction from Financial Filings**
   ![image](https://github.com/user-attachments/assets/9b0c5a1c-b0ae-4ec7-879e-2ba9882f0a28)
 
   
-3-Market Volatility Prediction
+**3-Market Volatility Prediction**
   ![image](https://github.com/user-attachments/assets/6630079d-3a6e-4ac0-b23d-66c2e461bb5f)
    
   
-4-Multi-lingual Market Sentiment Analysis
+**4-Multi-lingual Market Sentiment Analysis**
   ![image](https://github.com/user-attachments/assets/e1357de9-7917-4d80-af81-28b5baea9d8c)
 
   
-5-Pattern Recognition in Analyst Reports
+**5-Pattern Recognition in Analyst Reports**
   ![image](https://github.com/user-attachments/assets/e204e99d-b59d-4a5d-96f2-0063d967cb8c)
 
-6-Social Media Sentiment & Trend Detection
+**6-Social Media Sentiment & Trend Detection**
   ![image](https://github.com/user-attachments/assets/77bbac38-b73b-465c-9a18-638377ea4af2)
 
 
-7-Financial Fraud Detection
+**7-Financial Fraud Detection**
   ![image](https://github.com/user-attachments/assets/c307a38d-4396-4379-8bdc-0f63fdee0144)
 
 
-8-Dynamic Portfolio Rebalancing Based on Macroeconomic Trends
+**8-Dynamic Portfolio Rebalancing Based on Macroeconomic Trends**
   ![image](https://github.com/user-attachments/assets/c8459cc9-038f-428b-9e3d-b341632a1f8e)
 
 
-9-Earnings Report Forecasting
+**9-Earnings Report Forecasting**
   ![image](https://github.com/user-attachments/assets/ae7818c3-1be4-42db-9e70-37174b3d9991)
 
 
+
+**References**
+https://medium.com/@quantclubiitkgp/llms-in-quant-finance-leveraging-smarter-strategies-and-market-edge-6c4176e02114
 
 
 
